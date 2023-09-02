@@ -4,7 +4,7 @@ Descripción concisa y descriptiva del proyecto.
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/TeclabDev/e-control.git`
+1. Clona el repositorio: `git clone https://github.com/Steveteclab/impulsadoras-backend.git
 2. Navega al directorio del proyecto: `cd e-control`
 3. Instala las dependencias: `npm install`
 
@@ -15,7 +15,7 @@ Descripción concisa y descriptiva del proyecto.
 ## Uso
 
 1. Inicia la aplicación: `node app.js`
-2. Accede a la aplicación desde tu navegador en `http://localhost:3000/routes/list`
+2. Accede a la aplicación desde tu navegador en `http://localhost:3000/api/`
 
 ## Estructura de Carpetas
 
