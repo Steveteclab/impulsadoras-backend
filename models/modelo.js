@@ -11,7 +11,7 @@ module.exports = {
     const connection = await pool.getConnection();
     
     try {
-      // Generar un salt aleatorio
+      // Generar un salt aleatorios
       const salt = await bcrypt.genSalt(saltRounds);
       
       // Hashear la contraseña con el salt generado
