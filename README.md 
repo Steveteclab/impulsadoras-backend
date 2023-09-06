@@ -51,7 +51,7 @@ project-e-control-root/
 ## Contribución
 
 1. Crea un fork del repositorio.
-2. Clona tu fork: `git clone https://github.com/TeclabDev/e-control.git`
+2. Clona tu fork: `git clone https://github.com/Steveteclab/impulsadoras-backend.git
 3. Crea una rama para tu nueva función: `git checkout -b nueva-funcion`
 4. Realiza tus cambios y realiza commits: `git commit -m "Agrega nueva función"`
 5. Envía tus cambios a tu fork: `git push origin nueva-funcion`
